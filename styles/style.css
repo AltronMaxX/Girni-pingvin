@@ -1,0 +1,9 @@
+h1{
+    color: #13c013;
+}
+body {
+    font-family:'Courier New', Courier, monospace;
+    background-color: aquamarine;
+    background-image: url("photo.jpg");
+    background-size:cover;
+}
