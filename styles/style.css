@@ -1,9 +1,11 @@
 h1{
     color: #13c013;
+    margin-left: 52%;
+    margin-top: 26%;
 }
 body {
-    font-family:'Courier New', Courier, monospace;
+    font-family: 'Courier New', Courier, monospace;
     background-color: aquamarine;
     background-image: url("photo.jpg");
-    background-size:cover;
+    background-size: cover;
 }
